@@ -1,0 +1,1 @@
+{"cluster": "pod:aidc-t09", "namespace": "lama", "pod": "serving", "image": "sadeemalboqami/aidc-serving:cpu-v1", "node": "aidc-t09", "chat_status": 200}
